@@ -1,4 +1,5 @@
-# 📌 Typescript 공부하는 곳
+# ✏️ SQL 공부하는 곳 ✏️
+![img.png](img.png)
 
 ### ⚙️ 설정 환경
 `PostgreSQL`, `MySQL`, `Oracle` `DataGrip`
