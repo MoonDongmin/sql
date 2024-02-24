@@ -10,5 +10,4 @@ height="40px"/></a>
 <br>
 
 [Chapter 01. 레코드 검색](https://www.notion.so/moondongmin/Chapter-01-e037896e55ae4b48a06f1b8114970824)
-
-
+[Chapter 02. 쿼리 결과 정렬](https://www.notion.so/moondongmin/Chapter-02-6af45af617944e6ea36d8aedcbf1fc0a)
