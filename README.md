@@ -17,3 +17,6 @@ height="40px"/></a>
 [Chapter 03. 다중 테이블 작업](https://www.notion.so/moondongmin/Chapter-03-20827c1765f74925ae0f13c62face274)
 
 [Chapter 04. 삽입, 갱신, 삭제](https://www.notion.so/moondongmin/Chapter-04-796042bd350e425dab1fc8fd5a65ad3d)
+
+[Chapter 05. 메타 데이터 쿼리](https://www.notion.so/moondongmin/Chapter-05-ade05b84f92542e4ac69379b7c882d65)
+
