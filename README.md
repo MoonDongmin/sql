@@ -21,3 +21,5 @@ height="40px"/></a>
 [Chapter 05. 메타 데이터 쿼리](https://www.notion.so/moondongmin/Chapter-05-ade05b84f92542e4ac69379b7c882d65)
 
 [Chapter06. 문자열 작업(1)](https://www.notion.so/moondongmin/Chapter06-1-004262f2f2204f469c8b47507d6632eb)
+
+[Chapter06. 문자열 작업(2)](https://www.notion.so/moondongmin/Chapter06-2-83d170935be147ee81584bb598e53d35)
