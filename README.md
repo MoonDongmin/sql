@@ -23,3 +23,5 @@ height="40px"/></a>
 [Chapter06. 문자열 작업(1)](https://www.notion.so/moondongmin/Chapter06-1-004262f2f2204f469c8b47507d6632eb)
 
 [Chapter06. 문자열 작업(2)](https://www.notion.so/moondongmin/Chapter06-2-83d170935be147ee81584bb598e53d35)
+
+[Chapter 07. 숫자 작업](https://www.notion.so/moondongmin/Chapter-07-48003d4fb1594a7db2e4a7e2fc899516)
