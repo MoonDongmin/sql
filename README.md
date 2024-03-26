@@ -27,3 +27,5 @@ height="40px"/></a>
 [Chapter 07. 숫자 작업](https://www.notion.so/moondongmin/Chapter-07-48003d4fb1594a7db2e4a7e2fc899516)
 
 [Chapter 08. 날짜 산술](https://www.notion.so/moondongmin/Chapter-08-e35d475175274e4caf0122761def4e46)
+
+[Chapter 09. 날짜 조작 기법(1)](https://www.notion.so/moondongmin/Chapter-09-f44cca3df7c4462f960fb9c711baaf96)
