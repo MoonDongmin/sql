@@ -29,3 +29,5 @@ height="40px"/></a>
 [Chapter 08. 날짜 산술](https://www.notion.so/moondongmin/Chapter-08-e35d475175274e4caf0122761def4e46)
 
 [Chapter 09. 날짜 조작 기법(1)](https://www.notion.so/moondongmin/Chapter-09-f44cca3df7c4462f960fb9c711baaf96)
+
+[Chapter 09. 날짜 조작 기법(2)](https://www.notion.so/moondongmin/Chapter-09-2-bdac6e95e1d7413b8c383b6bc40b327b)
