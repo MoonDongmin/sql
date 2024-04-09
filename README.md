@@ -33,3 +33,5 @@ height="40px"/></a>
 [Chapter 09. 날짜 조작 기법(2)](https://www.notion.so/moondongmin/Chapter-09-2-bdac6e95e1d7413b8c383b6bc40b327b)
 
 [Chapter 10. 범위 관련 작업하기](https://www.notion.so/moondongmin/Chapter-10-912119a6f0a9497d82bb13222b466043)
+
+[Chapter 11. 고급 검색](https://www.notion.so/moondongmin/Chapter-11-10586d5a1613484e9236f849eac6f614)
