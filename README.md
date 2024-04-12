@@ -35,3 +35,5 @@ height="40px"/></a>
 [Chapter 10. 범위 관련 작업하기](https://www.notion.so/moondongmin/Chapter-10-912119a6f0a9497d82bb13222b466043)
 
 [Chapter 11. 고급 검색](https://www.notion.so/moondongmin/Chapter-11-10586d5a1613484e9236f849eac6f614)
+
+[Chapter 12. 보고서 작성과 재구성](https://www.notion.so/moondongmin/Chapter-12-a022890bad01403ea1a41b9d10673500)
