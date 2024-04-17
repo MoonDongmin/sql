@@ -39,3 +39,5 @@ height="40px"/></a>
 [Chapter 12. 보고서 작성과 재구성](https://www.notion.so/moondongmin/Chapter-12-a022890bad01403ea1a41b9d10673500)
 
 [Chapter 13. 계층적 쿼리](https://www.notion.so/moondongmin/Chapter-13-6031e57af61f45abb671b1a2810d77ed)
+
+[Chapter 14. 기타 다양한 기법](https://www.notion.so/moondongmin/Chapter-14-a61f8294ac654dadbf33925aca819154)
