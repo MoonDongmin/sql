@@ -41,3 +41,5 @@ height="40px"/></a>
 [Chapter 13. 계층적 쿼리](https://www.notion.so/moondongmin/Chapter-13-6031e57af61f45abb671b1a2810d77ed)
 
 [Chapter 14. 기타 다양한 기법](https://www.notion.so/moondongmin/Chapter-14-a61f8294ac654dadbf33925aca819154)
+
+[부록 A. 윈도우 함수 살펴보기](https://www.notion.so/moondongmin/A-e0cc02b279474a5d887d4d0b42f737bc)
