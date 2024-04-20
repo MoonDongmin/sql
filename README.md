@@ -1,5 +1,9 @@
 # ✏️ SQL 공부하는 곳 ✏️
-![img.png](img.png)
+
+<div style="display: flex;">
+    <img src="./img.png" alt="Image 1" style="margin-right: 10px;">
+    <img src="./img_1.png" alt="Image 2">
+</div>
 
 ### ⚙️ 설정 환경
 `PostgreSQL`, `MySQL`, `Oracle` `DataGrip`
@@ -9,6 +13,8 @@
 <img src="https://img.shields.io/badge/Notion-black?style=flat&logo=Notion&logoColor=white"
 height="40px"/></a>
 <br>
+
+## "SQL Cookbook"
 
 [Chapter 01. 레코드 검색](https://www.notion.so/moondongmin/Chapter-01-e037896e55ae4b48a06f1b8114970824)
 
@@ -43,3 +49,6 @@ height="40px"/></a>
 [Chapter 14. 기타 다양한 기법](https://www.notion.so/moondongmin/Chapter-14-a61f8294ac654dadbf33925aca819154)
 
 [부록 A. 윈도우 함수 살펴보기](https://www.notion.so/moondongmin/A-e0cc02b279474a5d887d4d0b42f737bc)
+
+## "데이터 분석을 위한 SQL 레시피"
+[Chapter 03. 데이터 가공을 위한 SQL](https://www.notion.so/moondongmin/Chapter-03-SQL-fd1521c8ab604cb0bba4aad7597139e9)
