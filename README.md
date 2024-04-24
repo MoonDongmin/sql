@@ -52,3 +52,5 @@ height="40px"/></a>
 
 ## "데이터 분석을 위한 SQL 레시피"
 [Chapter 03. 데이터 가공을 위한 SQL](https://www.notion.so/moondongmin/Chapter-03-SQL-fd1521c8ab604cb0bba4aad7597139e9)
+
+[Chapter 04. 매출을 파악하기 위한 데이터 추출](https://www.notion.so/moondongmin/Chapter-04-82146b0a425a43b48382992e75cd0fe7)
