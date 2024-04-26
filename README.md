@@ -54,3 +54,5 @@ height="40px"/></a>
 [Chapter 03. 데이터 가공을 위한 SQL](https://www.notion.so/moondongmin/Chapter-03-SQL-fd1521c8ab604cb0bba4aad7597139e9)
 
 [Chapter 04. 매출을 파악하기 위한 데이터 추출](https://www.notion.so/moondongmin/Chapter-04-82146b0a425a43b48382992e75cd0fe7)
+
+[Chapter 05. 사용자를 파악하기 위한 데이터 추출(1)](https://www.notion.so/moondongmin/Chapter-05-1-b5d515db0a9a49a2a8f059e72f78c62f)
