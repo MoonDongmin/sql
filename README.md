@@ -60,3 +60,5 @@ height="40px"/></a>
 [Chapter 06. 웹사이트에서의 행동을 파악하는 데이터 추출하기](https://www.notion.so/moondongmin/Chapter-06-6c13430648624291ae25e8da06db65e0?pvs=4)
 
 [Chapter 07. 데이터 활용의 정밀도를 높이는 분석 기술](https://www.notion.so/moondongmin/Chapter-07-2d0831f214f04026b8e4c6d39abe373e?pvs=4)
+
+[Chapter 08. 데이터를 무기로 삼기 위한 분석 기술](https://www.notion.so/moondongmin/Chapter-08-c796c76926a94ed187dc2923d564a7d3?pvs=4)
