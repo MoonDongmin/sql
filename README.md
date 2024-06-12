@@ -65,3 +65,4 @@ height="40px"/></a>
 
 ## "SQL 문제 풀기"
 [연속된 숫자](https://moondongmin.notion.site/332586def5ef4a1591a8e382af52b4d5?pvs=4)
+[영화 평가](https://moondongmin.notion.site/8830cc1d4cde49a793ad84eea51e6473?pvs=4)
