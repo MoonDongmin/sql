@@ -62,3 +62,6 @@ height="40px"/></a>
 [Chapter 07. 데이터 활용의 정밀도를 높이는 분석 기술](https://www.notion.so/moondongmin/Chapter-07-2d0831f214f04026b8e4c6d39abe373e?pvs=4)
 
 [Chapter 08. 데이터를 무기로 삼기 위한 분석 기술](https://www.notion.so/moondongmin/Chapter-08-c796c76926a94ed187dc2923d564a7d3?pvs=4)
+
+## "SQL 문제 풀기"
+[연속된 숫자](https://moondongmin.notion.site/332586def5ef4a1591a8e382af52b4d5?pvs=4)
