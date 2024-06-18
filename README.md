@@ -69,3 +69,5 @@ height="40px"/></a>
 [영화 평가](https://moondongmin.notion.site/8830cc1d4cde49a793ad84eea51e6473?pvs=4)
 
 [5월 식품들의 총 매출 조회하기](https://moondongmin.notion.site/5-9d27bc3ef24d4d7991ffde3895ec1059?pvs=4)
+
+[연속된 숫자](https://moondongmin.notion.site/332586def5ef4a1591a8e382af52b4d5?pvs=4)
