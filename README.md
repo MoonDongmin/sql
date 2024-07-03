@@ -74,3 +74,4 @@ height="40px"/></a>
 
 [영화 평가](https://moondongmin.notion.site/8830cc1d4cde49a793ad84eea51e6473?pvs=4)
 
+[게임 플레이 분석IV](https://www.notion.so/moondongmin/IV-cd822eeddeeb4024aaecaf4f5cdc18f5?pvs=4)
