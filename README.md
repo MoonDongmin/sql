@@ -77,3 +77,5 @@ height="40px"/></a>
 [게임 플레이 분석IV](https://www.notion.so/moondongmin/IV-cd822eeddeeb4024aaecaf4f5cdc18f5?pvs=4)
 
 [경기장의 방문자 수](https://moondongmin.notion.site/37b6da1b90b94861926d909b11d96de5?pvs=4)
+
+[15일간 SQL 학습](https://moondongmin.notion.site/15-SQL-faa80c2c457d4bcb83c2ec392135c500?pvs=4)
